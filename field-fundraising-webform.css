@@ -1,0 +1,73 @@
+label {
+    margin-bottom: 3px;
+    font-weight: bold;
+    font-weight: 400;
+    font-size: 10px;
+    color: #898989;
+    text-transform: uppercase;
+}
+
+.form-control {
+  font-weight: 400; /* Aug 21, 2018  */
+  border-radius:0;
+  border: none;
+  border-bottom: 1px solid #cccccc;
+  height: 40px;
+  box-shadow: none;
+  font-size: 18px;
+}
+
+.btn-lg, .btn-group-lg > .btn {
+    padding: 15px 40px;
+    font-size: 16px;
+    border-radius: 1px;
+    border: 0;
+    font-weight: 300;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.checkbox-options label {
+  font-size: 14px;
+  text-transform: initial;
+  border: 1px solid gray;
+  border-radius: 1px;
+  padding: 15px 15px;
+  width: 300px; /* Aug 21, 2018 */
+}
+
+.webform-progressbar-outer {
+  border: 10px solid #9ed06b;
+  border-radius: 10px; /* Aug 21, 2018 */
+}
+
+.webform-progressbar-page {
+  width: 12px;
+  height: 12px;
+  margin: -9px -4px;
+  border: 0;
+  border-radius: 12px;
+}
+
+.webform-progressbar-page.current {
+  background-color: #5b8a2a;
+}
+
+.webform-progressbar-page .webform-progressbar-page-label {
+  top: 17px;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 10px;
+}
+
+/* Aug 21, 2018 */
+
+.form-control:focus {
+  background-color: #f0f8ff;
+}
+
+.webform-next {
+    background-color: #dcdcdc;
+}

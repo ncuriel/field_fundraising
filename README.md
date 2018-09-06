@@ -1,6 +1,7 @@
 # field_fundraising
 
-I created a webform on powerbase (a version of CiviCRM). 
+I created a webform on powerbase (a version of CiviCRM).
+
 I made input boxes for: First Name, Last Name, Street Address, Zip Code, Phone, and Email. 
 I created a checkbox list titled "Leadership Interests" with 4 options "Come to a march / rally", "Help out with youth voter registration", "Talk to other folks about these issues", "Help out with a political campaign".
 I created another checkbox list titled "Issue Interest" with 4 options "Housing rights", "Workers rights", "Restorative Justice", "Families and Comunities".
